@@ -37,3 +37,7 @@
   }
 }
 .active {background-color: red}
+.button {
+  border-radius: 10px;
+}
+.input {margin-top:20px}
